@@ -1,6 +1,6 @@
-# Morse Code Decoder
+# Enumerable
 
-> This is a Morse Code Decoder built using Ruby.
+> This is an educational project to create a class MyList and a module MyEnumerable using Ruby programming language. The module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## Built With
 
