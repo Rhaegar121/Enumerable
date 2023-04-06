@@ -13,5 +13,5 @@ module MyEnumerable
     result = []
     each { |e| result << e if yield e }
     result
-    end
+  end
 end
